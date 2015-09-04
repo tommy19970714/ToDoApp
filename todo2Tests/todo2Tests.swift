@@ -1,25 +1,18 @@
 //
-//  todoUITests.swift
-//  todoUITests
+//  todo2Tests.swift
+//  todo2Tests
 //
-//  Created by 冨平準喜 on 2015/08/13.
+//  Created by 冨平準喜 on 2015/08/14.
 //  Copyright © 2015年 冨平準喜. All rights reserved.
 //
 
-import Foundation
 import XCTest
 
-class todoUITests: XCTestCase {
-        
+class todo2Tests: XCTestCase {
+    
     override func setUp() {
         super.setUp()
-        
         // Put setup code here. This method is called before the invocation of each test method in the class.
-        
-        // In UI tests it is usually best to stop immediately when a failure occurs.
-        continueAfterFailure = false
-        // UI tests must launch the application that they test. Doing this in setup will make sure it happens for each test method.
-        XCUIApplication().launch()
     }
     
     override func tearDown() {
@@ -28,8 +21,15 @@ class todoUITests: XCTestCase {
     }
     
     func testExample() {
-        // Use recording to get started writing UI tests.
+        // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
+    }
+    
+    func testPerformanceExample() {
+        // This is an example of a performance test case.
+        self.measureBlock() {
+            // Put the code you want to measure the time of here.
+        }
     }
     
 }

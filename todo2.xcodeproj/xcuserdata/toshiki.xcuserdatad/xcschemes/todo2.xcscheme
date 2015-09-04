@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8FCE4EC91B7C5B4D00A81FDE"
-               BuildableName = "todo.app"
-               BlueprintName = "todo"
-               ReferencedContainer = "container:todo.xcodeproj">
+               BlueprintIdentifier = "8F2A4E2B1B7DC63300FF4DBC"
+               BuildableName = "todo2.app"
+               BlueprintName = "todo2"
+               ReferencedContainer = "container:todo2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8FCE4EDF1B7C5B4D00A81FDE"
-               BuildableName = "todoTests.xctest"
-               BlueprintName = "todoTests"
-               ReferencedContainer = "container:todo.xcodeproj">
+               BlueprintIdentifier = "8F2A4E421B7DC63300FF4DBC"
+               BuildableName = "todo2Tests.xctest"
+               BlueprintName = "todo2Tests"
+               ReferencedContainer = "container:todo2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8FCE4EEA1B7C5B4D00A81FDE"
-               BuildableName = "todoUITests.xctest"
-               BlueprintName = "todoUITests"
-               ReferencedContainer = "container:todo.xcodeproj">
+               BlueprintIdentifier = "8F2A4E4D1B7DC63300FF4DBC"
+               BuildableName = "todo2UITests.xctest"
+               BlueprintName = "todo2UITests"
+               ReferencedContainer = "container:todo2.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8FCE4EC91B7C5B4D00A81FDE"
-            BuildableName = "todo.app"
-            BlueprintName = "todo"
-            ReferencedContainer = "container:todo.xcodeproj">
+            BlueprintIdentifier = "8F2A4E2B1B7DC63300FF4DBC"
+            BuildableName = "todo2.app"
+            BlueprintName = "todo2"
+            ReferencedContainer = "container:todo2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8FCE4EC91B7C5B4D00A81FDE"
-            BuildableName = "todo.app"
-            BlueprintName = "todo"
-            ReferencedContainer = "container:todo.xcodeproj">
+            BlueprintIdentifier = "8F2A4E2B1B7DC63300FF4DBC"
+            BuildableName = "todo2.app"
+            BlueprintName = "todo2"
+            ReferencedContainer = "container:todo2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8FCE4EC91B7C5B4D00A81FDE"
-            BuildableName = "todo.app"
-            BlueprintName = "todo"
-            ReferencedContainer = "container:todo.xcodeproj">
+            BlueprintIdentifier = "8F2A4E2B1B7DC63300FF4DBC"
+            BuildableName = "todo2.app"
+            BlueprintName = "todo2"
+            ReferencedContainer = "container:todo2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
